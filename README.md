@@ -37,7 +37,9 @@ O projeto tem como objetivo desenvolver uma aplicação que permita aos usuário
 
 
 # Desenvolvedores
-![image](https://github.com/user-attachments/assets/0c053fb7-abe4-41df-9898-3df8ff247a43)
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/Pedro-Rocha89?v=4" width=115><br><sub>Pedro Rocha</sub>](https://github.com/Pedro-Rocha89)
+
+Pedro-Rocha89
 
 
 

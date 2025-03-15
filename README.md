@@ -37,5 +37,6 @@ O projeto tem como objetivo desenvolver uma aplicação que permita aos usuário
 
 
 # Desenvolvedores
+![Foto perfil](https://github.com/user-attachments/assets/412327fb-2361-4fcb-811b-47010d6e96f9)
 
 

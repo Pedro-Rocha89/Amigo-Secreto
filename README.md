@@ -35,5 +35,7 @@ O projeto tem como objetivo desenvolver uma aplicação que permita aos usuário
 - ``VS code``
 - ``Trello``
 
-  
+
+# Desenvolvedores
+
 
